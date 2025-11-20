@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jameslevell/) &nbsp;
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailtojames@levell.ch?subject=Hello%James,%20From%20Github)
+[![Website](https://skillicons.dev/icons?i=gmail)](mailtojames@levell.ch?subject=Hello%James,%20From%20Github)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Python, Node.js, JavaScript, TypeScript, Azure](https://skillicons.dev/icons?i=next,python,nodejs,js,ts,azure)](https://skillicons.dev)
+[![aiscript, Next.js, Python, Node.js, JavaScript, TypeScript, Docker, Azure](https://skillicons.dev/icons?i=next,python,nodejs,js,ts,azure)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
